@@ -15,7 +15,7 @@
     "@react-navigation/stack": "^5.9.0",
     "expo": "~38.0.8",
     "expo-status-bar": "^1.0.2",
-    "nanoid": "^3.1.12",
+    "nanoid": "^3.1.31",
     "query-string": "^6.13.1",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
